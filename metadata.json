@@ -1,0 +1,5 @@
+{
+  "name": "Neon Maze Runner",
+  "description": "A procedurally generated 20x20 maze game with neon aesthetics and recursive backtracker algorithm.",
+  "requestFramePermissions": []
+}
